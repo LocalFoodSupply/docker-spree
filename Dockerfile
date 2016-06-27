@@ -1,4 +1,4 @@
-FROM promosherpas/docker-ruby:stable
+FROM promosherpas/ruby:stable
 
 WORKDIR /app/
 COPY . /app/
