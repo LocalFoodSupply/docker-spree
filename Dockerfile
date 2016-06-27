@@ -1,4 +1,4 @@
-FROM promosherpas/ruby:stable
+FROM promosherpas/ruby:latest
 
 WORKDIR /app/
 COPY . /app/
